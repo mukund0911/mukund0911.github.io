@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I’m a Computer Science PhD student in Missouri University of Science and Technology, under my advisor Dr. Siddhardh Nadendla. My research interests include algorithmic fairness and human-AI interaction. I have engaged in challenging real-world projects, including kidney placement, aimed at comprehending human perceptions of fairness and capturing the fairness preferences of diverse stakeholders.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
