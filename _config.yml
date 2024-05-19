@@ -128,16 +128,16 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: All about learning... # blog_name will be displayed in your blog page
-blog_description: I write as I read.
+blog_description: 
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -210,6 +210,10 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _pages/people.md
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/repositories.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
