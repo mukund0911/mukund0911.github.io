@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I’m a PhD student at [Missouri University of Science and Technology](https://cs.mst.edu), working under the guidance of [Dr. Siddhardh Nadendla](https://sid-nadendla.github.io/). My research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain.
 
-Currently, my work centers on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital.\
+Currently, my work centers on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital.
 
 <br/><br/>
 

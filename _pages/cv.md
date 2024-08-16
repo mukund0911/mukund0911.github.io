@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assests/pdf/Resume_Telukunta_2024.pdf
 title: cv
 nav: true
-cv_pdf: /assets/pdf/Resume_Telukunta_2024.pdf
+nav_order: 3
 ---
