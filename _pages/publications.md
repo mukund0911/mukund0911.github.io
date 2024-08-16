@@ -7,28 +7,27 @@ nav: true
 nav_order: 2
 ---
 
-1. Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement
-   Mukund Telukunta, Sukruth Rao, Gabriella Stickney, Venkata Sriram Siddhardh Nadendla and Casey Canfield
-   CHIL (Conference on Health, Inference and Learning) 2024
+1. **Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement**\
+   *Mukund Telukunta*, Sukruth Rao, Gabriella Stickney, Venkata Sriram Siddhardh Nadendla and Casey Canfield\
+   CHIL (Conference on Health, Inference and Learning) 2024\
    [PDF](https://chilconference.org/static/proceedings/2024/telukunta24.pdf) | [Poster](/mukund0911.github.io/assets/pdf/CHIL_Poster_Final.pdf) 
 
-2. Driver Fatigue Prediction using Randomly Activated Neural Networks for Smart Ridesharing Platforms (Under Review)
-   Sree Pooja Akula, Mukund Telukunta, and Venkata Sriram Siddhardh Nadendla
-   IEEE Transactions on Intelligent Transportation Systems, 2024 
+2. **Driver Fatigue Prediction using Randomly Activated Neural Networks for Smart Ridesharing Platforms** (Under Review)\
+   Sree Pooja Akula, *Mukund Telukunta*, and Venkata Sriram Siddhardh Nadendla\
+   IEEE Transactions on Intelligent Transportation Systems, 2024 \
    [Preprint]
 
-3. Towards Inclusive Fairness Evaluation via Eliciting Disagreement Feedback from Non-Expert Stakeholders
-   Mukund Telukunta, Venkata Sriram Siddhardh Nadendla
-   BIAS Workshop at European Conference of Machine Learning (ECML\PKDD) 2023
+3. **Towards Inclusive Fairness Evaluation via Eliciting Disagreement Feedback from Non-Expert Stakeholders**\
+   *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
+   BIAS Workshop at European Conference of Machine Learning (ECML\PKDD) 2023\
    [PDF](https://arxiv.org/pdf/2304.03801) | [Poster](/mukund0911.github.io/assets/pdf/ECML_PKDD_Poster_Final.pdf)
 
-4. Strategic Information Design in Selfish Routing with Quantum Response Travelers
-   Sainath Sanga, Venkata Sriram Siddhardh Nadendla, Mukund Telukunta, and 1 more author
-   IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS) , 2023
+4. **Strategic Information Design in Selfish Routing with Quantum Response Travelers**\
+   Sainath Sanga, Venkata Sriram Siddhardh Nadendla, *Mukund Telukunta*, and Sajal K. Das\
+   IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS), 2023
    [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298454&casa_token=BP_jzPNJT6sAAAAA:b6G-6Ro0xPGaslu3UXmjBomY9Bb333TFrnFDecmNcfmPSJgyeFGXOEfe9FLDo3H_5dzck5SCqgd9kw&tag=1)
 
-
-5. On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion
-   Mukund Telukunta, Venkata Sriram Siddhardh Nadendla
-   FAccTRec Workshop at Recommender Systems (RecSys) 2020
+5. **On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion**\
+   *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
+   FAccTRec Workshop at Recommender Systems (RecSys) 2020\
    [PDF](https://arxiv.org/pdf/2009.04383)
