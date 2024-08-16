@@ -24,7 +24,7 @@ nav_order: 2
 
 4. **Strategic Information Design in Selfish Routing with Quantum Response Travelers**\
    Sainath Sanga, Venkata Sriram Siddhardh Nadendla, *Mukund Telukunta*, and Sajal K. Das\
-   IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS), 2023
+   IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS), 2023\
    [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298454&casa_token=BP_jzPNJT6sAAAAA:b6G-6Ro0xPGaslu3UXmjBomY9Bb333TFrnFDecmNcfmPSJgyeFGXOEfe9FLDo3H_5dzck5SCqgd9kw&tag=1)
 
 5. **On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion**\
