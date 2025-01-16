@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: /assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -23,15 +23,15 @@ Currently, my work centers on understanding the fairness perceptions of various 
 
 <br/>
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 15px;">
   <a href="https://github.com/mukund0911" target="_blank" title="GitHub">
-    <img src="/assets/icons/icons8-github.svg" alt="GitHub" style="width: 30px; height: 30px;">
+    <img src="/assets/icons/icons8-github.svg" alt="GitHub" style="width: 50px; height: 50px;">
   </a>
   <a href="https://scholar.google.com/citations?user=iNSSyw8AAAAJ&hl" target="_blank" title="Google Scholar">
-    <img src="/assets/icons/icons8-google-scholar.svg" alt="Google Scholar" style="width: 30px; height: 30px;">
+    <img src="/assets/icons/icons8-google-scholar.svg" alt="Google Scholar" style="width: 50px; height: 50px;">
   </a>
   <a href="www.linkedin.com/in/mukundtelukunta" target="_blank" title="LinkedIn">
-    <img src="/assets/icons/icons8-linkedin.svg" alt="LinkedIn" style="width: 30px; height: 30px;">
+    <img src="/assets/icons/icons8-linkedin.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
   </a>
 </div>
 
