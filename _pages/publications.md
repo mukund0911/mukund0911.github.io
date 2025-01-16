@@ -10,7 +10,7 @@ nav_order: 2
 1. **Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement**\
    *Mukund Telukunta*, Sukruth Rao, Gabriella Stickney, Venkata Sriram Siddhardh Nadendla and Casey Canfield\
    CHIL (Conference on Health, Inference and Learning) 2024\
-   [PDF](https://chilconference.org/static/proceedings/2024/telukunta24.pdf) | [Poster](/mukund0911.github.io/assets/pdf/CHIL_Poster_Final.pdf) 
+   [PDF](https://proceedings.mlr.press/v248/telukunta24a.html) | [Poster](/mukund0911.github.io/assets/pdf/CHIL_Poster_Final.pdf) 
 
 2. **Driver Fatigue Prediction using Randomly Activated Neural Networks for Smart Ridesharing Platforms** (Under Review)\
    Sree Pooja Akula, *Mukund Telukunta*, and Venkata Sriram Siddhardh Nadendla\
@@ -25,7 +25,7 @@ nav_order: 2
 4. **Strategic Information Design in Selfish Routing with Quantum Response Travelers**\
    Sainath Sanga, Venkata Sriram Siddhardh Nadendla, *Mukund Telukunta*, and Sajal K. Das\
    IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS), 2023\
-   [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298454&casa_token=BP_jzPNJT6sAAAAA:b6G-6Ro0xPGaslu3UXmjBomY9Bb333TFrnFDecmNcfmPSJgyeFGXOEfe9FLDo3H_5dzck5SCqgd9kw&tag=1)
+   [PDF](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=2390&context=comsci_facwork)
 
 5. **On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion**\
    *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\

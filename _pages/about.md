@@ -24,18 +24,19 @@ Currently, my work centers on understanding the fairness perceptions of various 
 <br/>
 
 <div style="display: flex; gap: 15px;">
+  <a href="mailto:mukundtelukunta@gmail.com" target="_blank" title="Gmail">
+    <img src="/assets/icons/icons8-email-50.png" alt="Gmail" style="width: 50px; height: 50px;">
+  </a>
   <a href="https://github.com/mukund0911" target="_blank" title="GitHub">
     <img src="/assets/icons/icons8-github.svg" alt="GitHub" style="width: 50px; height: 50px;">
   </a>
   <a href="https://scholar.google.com/citations?user=iNSSyw8AAAAJ&hl" target="_blank" title="Google Scholar">
     <img src="/assets/icons/icons8-google-scholar.svg" alt="Google Scholar" style="width: 50px; height: 50px;">
   </a>
-  <a href="www.linkedin.com/in/mukundtelukunta" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/mukundtelukunta/" target="_blank" title="LinkedIn">
     <img src="/assets/icons/icons8-linkedin.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
   </a>
 </div>
-
-<br/><br/>
 
 <br/><br/>
 
@@ -44,7 +45,7 @@ Currently, my work centers on understanding the fairness perceptions of various 
 **Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement**\
 *Mukund Telukunta*, Sukruth Rao, Gabriella Stickney, Venkata Sriram Siddhardh Nadendla and Casey Canfield  
 Conference on Health, Inference and Learning (CHIL) 2024\
-[PDF](https://chilconference.org/static/proceedings/2024/telukunta24.pdf) | [Poster](/mukund0911.github.io/assets/pdf/CHIL_Poster_Final.pdf)
+[PDF](https://proceedings.mlr.press/v248/telukunta24a.html) | [Poster](/mukund0911.github.io/assets/pdf/CHIL_Poster_Final.pdf)
 
 **Towards Inclusive Fairness Evaluation via Eliciting Disagreement Feedback from Non-Expert Stakeholders**\
 *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
