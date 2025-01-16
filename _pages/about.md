@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 I’m a final year PhD student at [Missouri University of Science and Technology](https://cs.mst.edu), working under the guidance of [Dr. Siddhardh Nadendla](https://sid-nadendla.github.io/). My research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. **I’ll be graduating in May 2025 and on the job market, please reach out if interested!**
