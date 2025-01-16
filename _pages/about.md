@@ -17,9 +17,23 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I’m a PhD student at [Missouri University of Science and Technology](https://cs.mst.edu), working under the guidance of [Dr. Siddhardh Nadendla](https://sid-nadendla.github.io/). My research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain.
+I’m a final year PhD student at [Missouri University of Science and Technology](https://cs.mst.edu), working under the guidance of [Dr. Siddhardh Nadendla](https://sid-nadendla.github.io/). My research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. **I’ll be graduating in May 2025 and on the job market, please reach out if interested!**
 
 Currently, my work centers on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital.
+
+<br/>
+
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/mukund0911" target="_blank" title="GitHub">
+    <img src="/assets/icons/icons8-github.svg" alt="GitHub" style="width: 30px; height: 30px;">
+  </a>
+  <a href="https://scholar.google.com/citations?user=iNSSyw8AAAAJ&hl" target="_blank" title="Google Scholar">
+    <img src="/assets/icons/icons8-google-scholar.svg" alt="Google Scholar" style="width: 30px; height: 30px;">
+  </a>
+  <a href="www.linkedin.com/in/mukundtelukunta" target="_blank" title="LinkedIn">
+    <img src="/assets/icons/icons8-linkedin.svg" alt="LinkedIn" style="width: 30px; height: 30px;">
+  </a>
+</div>
 
 <br/><br/>
 
@@ -41,3 +55,5 @@ BIAS Workshop at European Conference on Machine Learning (ECML\PKDD) 2023\
 *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
 FAccTRec Workshop at Recommender Systems (RecSys) 2020\
 [PDF](https://arxiv.org/pdf/2009.04383)
+
+
