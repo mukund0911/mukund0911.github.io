@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: /mukund0911.github.io/assets/img/prof_pic.jpg
+  image: /assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
