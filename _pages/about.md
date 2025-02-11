@@ -50,7 +50,7 @@ Conference on Health, Inference and Learning (CHIL) 2024\
 **Towards Inclusive Fairness Evaluation via Eliciting Disagreement Feedback from Non-Expert Stakeholders**\
 *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
 BIAS Workshop at European Conference on Machine Learning (ECML\PKDD) 2023\
-[PDF](https://arxiv.org/pdf/2304.03801) | [Poster](/mukund0911.github.io/assets/pdf/ECML_PKDD_Poster_Final.pdf)
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-74630-7_17) | [Poster](/mukund0911.github.io/assets/pdf/ECML_PKDD_Poster_Final.pdf)
 
 **On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion**\
 *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
