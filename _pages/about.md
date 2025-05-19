@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -17,9 +17,9 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I’m a final year PhD student at [Missouri University of Science and Technology](https://cs.mst.edu), working under the guidance of [Dr. Siddhardh Nadendla](https://sid-nadendla.github.io/). My research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. **I’ll be graduating in May 2025 and on the job market, please reach out if interested!**
+I’m a recent PhD grad from [Missouri University of Science and Technology](https://cs.mst.edu), worked under the guidance of [Dr. Siddhardh Nadendla](https://sid-nadendla.github.io/). My research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. **I’m currently on the job market, please reach out if interested!**
 
-Currently, my work centers on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital.
+My work focuses on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital.
 
 <br/>
 
@@ -41,6 +41,13 @@ Currently, my work centers on understanding the fairness perceptions of various 
 <br/><br/>
 
 ## relevant publications
+
+**Fairness Perceptions through Disagreements** (In Preparation)
+*Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla
+
+**Fairness Perceptions in Regression-based Predictive Models** (Under Review)
+*Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla, Morgan Stuart, Casey Canfield\
+[Preprint](https://arxiv.org/abs/2505.04886)
 
 **Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement**\
 *Mukund Telukunta*, Sukruth Rao, Gabriella Stickney, Venkata Sriram Siddhardh Nadendla and Casey Canfield  

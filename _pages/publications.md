@@ -7,15 +7,22 @@ nav: true
 nav_order: 2
 ---
 
+1. **Fairness Perceptions through Disagreements** (In Preparation)
+   *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla
+
+2. **Fairness Perceptions in Regression-based Predictive Models** (Under Review)
+   *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla, Morgan Stuart, Casey Canfield\
+   [Preprint](https://arxiv.org/abs/2505.04886)
+
 1. **Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement**\
    *Mukund Telukunta*, Sukruth Rao, Gabriella Stickney, Venkata Sriram Siddhardh Nadendla and Casey Canfield\
-   CHIL (Conference on Health, Inference and Learning) 2024\
+   Conference on Health, Inference and Learning (CHIL) 2024\
    [PDF](https://proceedings.mlr.press/v248/telukunta24a.html) | [Poster](/mukund0911.github.io/assets/pdf/CHIL_Poster_Final.pdf) 
 
-2. **Driver Fatigue Prediction using Randomly Activated Neural Networks for Smart Ridesharing Platforms** (Under Review)\
+<!-- 2. **Driver Fatigue Prediction using Randomly Activated Neural Networks for Smart Ridesharing Platforms** (Under Review)\
    Sree Pooja Akula, *Mukund Telukunta*, and Venkata Sriram Siddhardh Nadendla\
    IEEE Transactions on Intelligent Transportation Systems, 2024 \
-   [Preprint]
+   [Preprint] -->
 
 3. **Towards Inclusive Fairness Evaluation via Eliciting Disagreement Feedback from Non-Expert Stakeholders**\
    *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
