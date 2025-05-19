@@ -42,10 +42,10 @@ My work focuses on understanding the fairness perceptions of various stakeholder
 
 ## relevant publications
 
-**Fairness Perceptions through Disagreements** (In Preparation)
+**Fairness Perceptions through Disagreements** (In Preparation)\
 *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla
 
-**Fairness Perceptions in Regression-based Predictive Models** (Under Review)
+**Fairness Perceptions in Regression-based Predictive Models** (Under Review)\
 *Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla, Morgan Stuart, Casey Canfield\
 [Preprint](https://arxiv.org/abs/2505.04886)
 
