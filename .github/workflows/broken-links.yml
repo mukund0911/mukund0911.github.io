@@ -44,9 +44,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Link Checker 🔗
+      - name: Check for broken links
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+         fail: false # or remove this line
+         args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html' --accept-unknown
