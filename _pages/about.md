@@ -1,0 +1,65 @@
+I'm an ML researcher/engineer with a PhD in Computer Science from Missouri University of Science and Technology. My work work spans transformer pretraining, inference optimization, and the data infrastructure that connects the two, most recently pretraining a 150M-parameter model from scratch that outperformed a model 25 times its size on 16 of 26 benchmarks. I've also built and shipped production AI systems solo, including a real-time voice AI product and a computer vision pipeline running under 20 milliseconds on edge hardware.
+
+My PhD research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. Specifically, my work focuses on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital. I have publications at CHIL, ECML PKDD, IEEE MASS, and RecSys, spanning preference modeling, fairness evaluation, and optimization theory, with an emphasis on measuring AI systems rigorously rather than assuming they work.
+
+**I’m currently on the job market, please reach out if interested!**
+
+<br/>
+
+<div style="display: flex; gap: 15px;">
+  <a href="mailto:mukundtelukunta@gmail.com" target="_blank" title="Gmail">
+    <img src="/assets/icons/icons8-email-50.png" alt="Gmail" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://github.com/mukund0911" target="_blank" title="GitHub">
+    <img src="/assets/icons/icons8-github.svg" alt="GitHub" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://scholar.google.com/citations?user=iNSSyw8AAAAJ&hl" target="_blank" title="Google Scholar">
+    <img src="/assets/icons/icons8-google-scholar.svg" alt="Google Scholar" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://www.linkedin.com/in/mukundtelukunta/" target="_blank" title="LinkedIn">
+    <img src="/assets/icons/icons8-linkedin.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+  </a>
+</div>
+
+<br/><br/>
+
+## relevant projects
+**DNABART** ([github.com/mukund0911/dnabart](github.com/mukund0911/dnabart))\
+A 150M-parameter transformer pretrained from scratch on genomic sequence data to test whether a smaller, well-trained model could beat a much larger baseline; built with PyTorch, DDP/NCCL distributed training, a custom tokenizer, and a full TensorRT/Triton inference stack, reaching state-of-the-art on 16 of 26 benchmarks with 4% of the baseline's parameters.
+
+**WaveCrafter** ([https://github.com/mukund0911/wave-craft](https://github.com/mukund0911/wave-craft))\
+A production voice AI product built solo to turn speech into a fully automated, agentic conversation pipeline; built with WhisperX, pyannote, Chatterbox TTS, LangGraph orchestration, RAG, React, and Flask, running at sub-200ms latency with a 90% cost reduction.
+
+**PitchVision** ([github.com/mukund0911/pitch_vision](github.com/mukund0911/pitch_vision))\
+A real-time computer vision pipeline built to track players and predict movement fast enough to run on embedded hardware; built with PyTorch, YOLO, DeepSORT, Kalman filtering, and a Transformer trajectory model, running end-to-end under 20 milliseconds on an NVIDIA Jetson.
+
+**Learning node-embeddings for route optimization**\
+HGT, a heterogeneous graph transformer built to test whether graph-based reasoning could generalize to unseen entities without retraining; built with PyTorch Geometric, GraphSAGE, and LSTM components, reaching an R-squared of 0.91 across a 700K-node graph.
+
+<br/><br/>
+
+## relevant publications
+
+**Fairness Perceptions through Disagreements** (In Preparation)\
+*Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla
+
+**Fairness Perceptions in Regression-based Predictive Models** (Under Review)\
+*Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla, Morgan Stuart, Casey Canfield\
+[Preprint](https://arxiv.org/abs/2505.04886)
+
+**Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement**\
+*Mukund Telukunta*, Sukruth Rao, Gabriella Stickney, Venkata Sriram Siddhardh Nadendla and Casey Canfield  
+Conference on Health, Inference and Learning (CHIL) 2024\
+[PDF](https://proceedings.mlr.press/v248/telukunta24a.html) | [Poster](/mukund0911.github.io/assets/pdf/CHIL_Poster_Final.pdf)
+
+**Towards Inclusive Fairness Evaluation via Eliciting Disagreement Feedback from Non-Expert Stakeholders**\
+*Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
+BIAS Workshop at European Conference on Machine Learning (ECML\PKDD) 2023\
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-74630-7_17) | [Poster](/mukund0911.github.io/assets/pdf/ECML_PKDD_Poster_Final.pdf)
+
+**On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion**\
+*Mukund Telukunta*, Venkata Sriram Siddhardh Nadendla\
+FAccTRec Workshop at Recommender Systems (RecSys) 2020\
+[PDF](https://arxiv.org/pdf/2009.04383)
+
+
