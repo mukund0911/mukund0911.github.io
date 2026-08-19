@@ -17,9 +17,11 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I’m a recent PhD grad from [Missouri University of Science and Technology](https://cs.mst.edu), worked under the guidance of [Dr. Siddhardh Nadendla](https://sid-nadendla.github.io/). My research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. **I’m currently on the job market, please reach out if interested!**
+I'm an ML researcher/engineer with a PhD in Computer Science from Missouri University of Science and Technology. My work work spans transformer pretraining, inference optimization, and the data infrastructure that connects the two, most recently pretraining a 150M-parameter model from scratch that outperformed a model 25 times its size on 16 of 26 benchmarks. I've also built and shipped production AI systems solo, including a real-time voice AI product and a computer vision pipeline running under 20 milliseconds on edge hardware.
 
-My work focuses on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital.
+My PhD research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. Specifically, my work focuses on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital. I have publications at CHIL, ECML PKDD, IEEE MASS, and RecSys, spanning preference modeling, fairness evaluation, and optimization theory, with an emphasis on measuring AI systems rigorously rather than assuming they work.
+
+**I’m currently on the job market, please reach out if interested!**
 
 <br/>
 
@@ -37,6 +39,21 @@ My work focuses on understanding the fairness perceptions of various stakeholder
     <img src="/assets/icons/icons8-linkedin.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
   </a>
 </div>
+
+<br/><br/>
+
+## relevant projects
+**DNABART** (github.com/mukund0911/dnabart)\ 
+A 150M-parameter transformer pretrained from scratch on genomic sequence data to test whether a smaller, well-trained model could beat a much larger baseline; built with PyTorch, DDP/NCCL distributed training, a custom tokenizer, and a full TensorRT/Triton inference stack, reaching state-of-the-art on 16 of 26 benchmarks with 4% of the baseline's parameters.
+
+**WaveCrafter** (wave-crafter.com)\ 
+A production voice AI product built solo to turn speech into a fully automated, agentic conversation pipeline; built with WhisperX, pyannote, Chatterbox TTS, LangGraph orchestration, RAG, React, and Flask, running at sub-200ms latency with a 90% cost reduction.
+
+**PitchVision** (github.com/mukund0911/pitch_vision)\
+a real-time computer vision pipeline built to track players and predict movement fast enough to run on embedded hardware; built with PyTorch, YOLO, DeepSORT, Kalman filtering, and a Transformer trajectory model, running end-to-end under 20 milliseconds on an NVIDIA Jetson.
+
+**Learning node-embeddings for route optimization**
+HGT, a heterogeneous graph transformer built to test whether graph-based reasoning could generalize to unseen entities without retraining; built with PyTorch Geometric, GraphSAGE, and LSTM components, reaching an R-squared of 0.91 across a 700K-node graph.
 
 <br/><br/>
 
