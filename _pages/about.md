@@ -43,16 +43,16 @@ My PhD research interests include **algorithmic fairness** and **human-AI intera
 <br/><br/>
 
 ## relevant projects
-**DNABART** (github.com/mukund0911/dnabart)\ 
+**DNABART** (github.com/mukund0911/dnabart) \ 
 A 150M-parameter transformer pretrained from scratch on genomic sequence data to test whether a smaller, well-trained model could beat a much larger baseline; built with PyTorch, DDP/NCCL distributed training, a custom tokenizer, and a full TensorRT/Triton inference stack, reaching state-of-the-art on 16 of 26 benchmarks with 4% of the baseline's parameters.
 
-**WaveCrafter** (wave-crafter.com)\ 
+**WaveCrafter** (wave-crafter.com) \ 
 A production voice AI product built solo to turn speech into a fully automated, agentic conversation pipeline; built with WhisperX, pyannote, Chatterbox TTS, LangGraph orchestration, RAG, React, and Flask, running at sub-200ms latency with a 90% cost reduction.
 
-**PitchVision** (github.com/mukund0911/pitch_vision)\
+**PitchVision** [github.com/mukund0911/pitch_vision](github.com/mukund0911/pitch_vision) \
 a real-time computer vision pipeline built to track players and predict movement fast enough to run on embedded hardware; built with PyTorch, YOLO, DeepSORT, Kalman filtering, and a Transformer trajectory model, running end-to-end under 20 milliseconds on an NVIDIA Jetson.
 
-**Learning node-embeddings for route optimization**
+**Learning node-embeddings for route optimization** \
 HGT, a heterogeneous graph transformer built to test whether graph-based reasoning could generalize to unseen entities without retraining; built with PyTorch Geometric, GraphSAGE, and LSTM components, reaching an R-squared of 0.91 across a 700K-node graph.
 
 <br/><br/>
