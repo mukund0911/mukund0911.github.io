@@ -20,6 +20,26 @@ social: true # includes social icons at the bottom of the page
 I'm an ML researcher/engineer with a PhD in Computer Science from Missouri University of Science and Technology. My work work spans transformer pretraining, inference optimization, and the data infrastructure that connects the two, most recently pretraining a 150M-parameter model from scratch that outperformed a model 25 times its size on 16 of 26 benchmarks. I've also built and shipped production AI systems solo, including a real-time voice AI product and a computer vision pipeline running under 20 milliseconds on edge hardware.
 
 My PhD research interests include **algorithmic fairness** and **human-AI interaction**, with a focus on the kidney transplantation domain. Specifically, my work focuses on understanding the fairness perceptions of various stakeholders (patients, donors, and surgeons) in kidney transplantation. I have collaborated with Research Scientists from the [United Network of Organ Sharing](https://unos.org/) (UNOS) and Nephrologists from Saint Louis University Hospital. I have publications at CHIL, ECML PKDD, IEEE MASS, and RecSys, spanning preference modeling, fairness evaluation, and optimization theory, with an emphasis on measuring AI systems rigorously rather than assuming they work.
+
+**I'm currently on the job market, please reach out if interested!**
+
+<br/>
+
+<div style="display: flex; gap: 15px;">
+  <a href="mailto:mukundtelukunta@gmail.com" target="_blank" title="Gmail">
+    <img src="/assets/icons/icons8-email-50.png" alt="Gmail" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://github.com/mukund0911" target="_blank" title="GitHub">
+    <img src="/assets/icons/icons8-github.svg" alt="GitHub" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://scholar.google.com/citations?user=iNSSyw8AAAAJ&hl" target="_blank" title="Google Scholar">
+    <img src="/assets/icons/icons8-google-scholar.svg" alt="Google Scholar" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://www.linkedin.com/in/mukundtelukunta/" target="_blank" title="LinkedIn">
+    <img src="/assets/icons/icons8-linkedin.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+  </a>
+</div>
+
 <br/><br/>
 
 ## relevant projects
